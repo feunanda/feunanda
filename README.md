@@ -19,7 +19,7 @@
 
 
  
-  <img align="right" alt="Fer-pic" height="150" border-radius="50%;" src="https://picrew.me/shareImg/secret/202206/644129_tOpe3uKH.png">
+  <img align="right" alt="Fer-pic" height="150" style= border-radius="50%;" src="https://picrew.me/shareImg/secret/202206/644129_tOpe3uKH.png">
 </div>
   
 <img align="center" height="2" width="658" src="https://camo.githubusercontent.com/1e2d21053078bfce95a49055362115d90262781298f934e827550c922df3f8cd/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303432392e676966">
