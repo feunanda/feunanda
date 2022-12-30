@@ -20,7 +20,7 @@
 
 
  
-  <img align="right" alt="Fer-pic" height="150" src="![a4340823-eafd-4f1d-b76c-07720b245bbc](https://user-images.githubusercontent.com/94145938/210041681-c9f1cb39-2f0f-4147-a3af-20c6fa7bdfd4.gif)">
+  <img align="right" alt="Fer-pic" height="150" src="https://user-images.githubusercontent.com/94145938/210041681-c9f1cb39-2f0f-4147-a3af-20c6fa7bdfd4.gif">
 </div>
   
 <img align="center" height="2" width="658" src="https://camo.githubusercontent.com/1e2d21053078bfce95a49055362115d90262781298f934e827550c922df3f8cd/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303432392e676966">
